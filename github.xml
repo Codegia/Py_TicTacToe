@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="Codegia" id="a994b47a-e42e-4f58-aec2-f7fa584b0d88">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
